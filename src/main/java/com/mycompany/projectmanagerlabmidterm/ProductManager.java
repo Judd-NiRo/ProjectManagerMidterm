@@ -10,4 +10,7 @@ package com.mycompany.projectmanagerlabmidterm;
  */
 public class ProductManager {
     
+    public void calculateDiscount(){
+        System.out.println("Calculating discounts.......");
+    }
 }
